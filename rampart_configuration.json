@@ -1,0 +1,26 @@
+{
+  "title": "ISKNV Validation Run",
+  "basecalledPath": "/Users/shaymaalathari/ISKNV_T7_MinION/Cefas1267",
+  "samples": [
+    {
+      "name": "ISKNV",
+      "description": "Cefas1267_1-1",
+      "barcodes": [ "barcode08" ]
+    },
+    {
+      "name": "ISKNV",
+      "description": "Cefas1267_2-1",
+      "barcodes": [ "barcode09" ]
+    },
+    {
+      "name": "ISKNV",
+      "description": "Cefas1267_6-3",
+      "barcodes": [ "barcode10" ]
+    },
+    {
+      "name": "ISKNV",
+      "description": "Cefas1267_7-1",
+      "barcodes": [ "barcode11" ]
+    }
+  ]
+}
